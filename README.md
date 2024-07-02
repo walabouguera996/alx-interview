@@ -93,10 +93,10 @@ cd ./0x09-island_perimeter
 <!---->
 
 # :man: Author and Credits.
-This project was done by [SE. Moses Mwangi](https://github.com/MosesSoftEng). Feel free to get intouch with me;
+This project was done by [SE. wala bouguera ](https://github.com/walabouguera996). Feel free to get intouch with me;
 
-:iphone: WhatsApp [+254115227963](https://wa.me/254115227963)
+:iphone: WhatsApp [+21627800240](https://wa.me/21627800240)
 
-:email: Email [moses.soft.eng@gmail.com](mailto:moses.soft.eng@gmail.com)
+:email: Email [walabouguera996@gmail.com](walabouguera996@gmail.com)
 
 :thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements.
