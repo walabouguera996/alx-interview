@@ -9,4 +9,4 @@ chmod +x 0-nqueens.py
 
 # Lint.
 pycodestyle 0-nqueens.py
-```
+__________________________________
